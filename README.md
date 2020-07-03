@@ -12,9 +12,17 @@
 
 找到oid可以在网页上通过F12查看网页信息，刷新后就可以找到**oid**
 
-![](https://gitee.com/cnpolaris-tian/giteePagesImages/raw/master/null/%E6%9F%A5%E6%89%BEoid.jpg)
+<img src="https://gitee.com/cnpolaris-tian/giteePagesImages/raw/master/null/%E6%9F%A5%E6%89%BEoid.jpg" style="zoom:50%" />
+
+
 # 开始工作
+1. [弹幕爬虫](./spider_bilibili.py)
 
-1.弹幕爬虫
+2. [词云](./ciyun.py)
 
-[]()
+# 结果
+
+这次就是简单的做了一个词云
+<img style="align: center">
+src="https://gitee.com/cnpolaris-tian/giteePagesImages/raw/master/null/%E8%AF%8D%E4%BA%91.png"/>
+</img>
