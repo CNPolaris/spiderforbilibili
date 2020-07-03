@@ -1,4 +1,5 @@
 # spiderforbilibili
+
 在刷B站的时候突发奇想，想着用python试着爬取B站视频弹幕，看看广大网友们的才华[doge]。
 
 # 准备工作
@@ -11,7 +12,7 @@
 
 找到oid可以在网页上通过F12查看网页信息，刷新后就可以找到**oid**
 
-![](%E6%9F%A5%E6%89%BEoid.png)
+![](https://github.com/CNPolaris/PagesImages/查找oid.png)
 
 # 开始工作
 
