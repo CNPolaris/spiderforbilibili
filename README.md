@@ -23,6 +23,5 @@
 # 结果
 
 这次就是简单的做了一个词云
-<img style="align: center">
-src="https://gitee.com/cnpolaris-tian/giteePagesImages/raw/master/null/%E8%AF%8D%E4%BA%91.png"/>
+<img src="https://gitee.com/cnpolaris-tian/giteePagesImages/raw/master/null/%E8%AF%8D%E4%BA%91.png"/>
 </img>
