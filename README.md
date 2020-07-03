@@ -12,8 +12,7 @@
 
 找到oid可以在网页上通过F12查看网页信息，刷新后就可以找到**oid**
 
-![](![](https://github.com/CNPolaris/PagesImages/%E6%9F%A5%E6%89%BEoid.png))
-
+![](https://github.com/CNPolaris/PagesImages/%E6%9F%A5%E6%89%BEoid.png)
 # 开始工作
 
 1.弹幕爬虫
